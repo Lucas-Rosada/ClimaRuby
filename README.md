@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://example.com/path/to/your/logo.png" width="400" height="400" alt="Logo"/> 
+   <img src="https://github.com/Lucas-Rosada/ClimaRuby/blob/main/Assets/logo.png?raw=true" width="400" height="400" alt="Logo"/> 
 </p>
 
 <h1 align="center">ClimaRuby</h1>
@@ -56,5 +56,5 @@ Antes de rodar o código, instale as gemas(Bibliotecas) necessárias:
 
 ## 🖼️ Interface do Usuário
 
-<p align="center"> <img src="https://example.com/path/to/your/screenshot.png" alt="Demonstração" width="350"> </p>
-<p align="center"> <img src="https://example.com/path/to/your/screenshot.png" alt="Demonstração" width="350"> </p>
+<p align="center"> <img src="https://github.com/Lucas-Rosada/ClimaRuby/blob/main/Assets/interface1.png?raw=true" alt="Demonstração" width="500"> </p>
+<p align="center"> <img src="https://github.com/Lucas-Rosada/ClimaRuby/blob/main/Assets/interface2.png?raw=true" alt="Demonstração" width="500"> </p>
