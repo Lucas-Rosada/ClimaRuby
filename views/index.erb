@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Previsão do Tempo</title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+    <h1>Consulta de Previsão do Tempo</h1>
+    <% if @error %>
+        <p style="color: red;"><%= @error %></p>
+    <% end %>
+    <form action="/weather" method="post">
+        <input type="text" name="city" placeholder="Digite o nome da cidade" required>
+        <input type="submit" value="Consultar">
+    </form>
+</body>
+</html>
